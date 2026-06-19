@@ -7,6 +7,7 @@ def home():
     return """
     <h1>Welcome to My Flask Cloud Application</h1>
     <p>Successfully Deployed Using CI/CD Pipeline</p>
+    <p>hello world</p>
     """
 
 if __name__ == "__main__":
